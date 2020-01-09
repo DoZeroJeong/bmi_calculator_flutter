@@ -20,6 +20,21 @@ const kTitleTextStyle = TextStyle(
   fontWeight: FontWeight.bold,
 );
 
+const kResultTextStyle = TextStyle(
+  color: Color(0xff24d876),
+  fontSize: 22.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kBMITextStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold,
+);
+
+const kBodyTextStyle = TextStyle(
+  fontSize: 22.0,
+);
+
 const kBottomContainerHeight = 80.0;
 const kActiveCardColour = Color(0xff1d1e33);
 const kBottomContainerColour = Color(0xffeb1555);
